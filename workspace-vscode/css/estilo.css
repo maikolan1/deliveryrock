@@ -1,0 +1,98 @@
+@font-face {
+  font-family: blackdeath;
+  src: url(../fontes/blackdeath.ttf);
+}
+
+@font-face {
+  font-family: roboto;
+  src: url(../fontes/robotoblack.ttf);
+}
+
+h1 {
+  text-align: center;
+  font-family: blackdeath;
+  font-size: 3rem;
+  background-color: black;
+  color: #fff;
+  padding: 30px 0;
+}
+
+h2 {
+  text-align: center;
+  font-family: blackdeath;
+  font-size: 1.9rem;
+  background-color: black;
+  color: #fff;
+  padding: 10px 0;
+  margin-top: 250px;
+}
+
+p {
+  font-family: robotoblack;
+  font-size: 1.9rem;
+  background-color: black;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.vsfrock {
+  margin-left: 2%;
+  width: 800px;
+  height: 800px;
+  border: 5px solid #fff;
+  border-radius: 2rem;
+}
+
+.principal {
+  display: flex;
+  justify-content: space-between;
+}
+
+.areaTexto {
+  text-align: center;
+  padding-right: 8rem;
+}
+
+body {
+  background-color: black;
+}
+
+.batata {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 2rem;
+}
+
+.hamburguer {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 2rem;
+}
+
+.cola {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 2rem;
+}
+
+.linkOpcaoImg {
+  margin-top: 10rem;
+}
+
+.opcoes {
+  font-family: blackdeath;
+  font-size: 3rem;
+  background-color: black;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 8.5rem;
+  padding-left: 1rem;
+  padding-bottom: 2rem;
+}
+
+.imgcomida {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 7rem;
+}
