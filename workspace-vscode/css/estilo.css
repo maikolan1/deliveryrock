@@ -91,6 +91,17 @@ body {
   padding-bottom: 2rem;
 }
 
+a{
+  font-family: blackdeath;
+  font-size: 3rem;
+  background-color: black;
+  color: #fff;
+  text-decoration: none;
+}
+a:hover{
+  color: rgb(129, 129, 129);
+}
+
 .imgcomida {
   display: flex;
   justify-content: space-between;
